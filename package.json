@@ -1,0 +1,22 @@
+{
+  "name": "semantic-html",
+  "version": "1.0.0",
+  "description": "semantic html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmaganga/semantic-html.git"
+  },
+  "author": "celestine akinyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmaganga/semantic-html/issues"
+  },
+  "homepage": "https://github.com/patrickmaganga/semantic-html#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
